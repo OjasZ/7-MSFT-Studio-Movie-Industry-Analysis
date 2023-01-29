@@ -1,5 +1,5 @@
                                                
-                                              MSFT-Studio-Movie-Industry-Analysis
+                                            MSFT-Studio-Movie-Industry-Analysis
                                               
  Abstract:
  
