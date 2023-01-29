@@ -28,7 +28,8 @@ Keywords : Media Economics; Cinema Economics; Film Financing; Hollywood Economic
 Office Revenues; Data Mining; Text Mining; Movie Analytics; Oscars; Prediction Markets;
 Measurement.
 
-Introduction
+Introduction :
+
 The movie industry is one of the most profitable sectors of media, generating multi-billion
 dollars of revenue each year. The global market reached 101 billion USD in 2019, with an 8% increase
 from the previous year. The U.S market alone reached 36.6 billion USD with a 4% percent increase
@@ -41,6 +42,7 @@ and exhibition. Research shows that the average investment to produce a movie is
 movies reflect the risk of investment for investors. Between 2000 and 2010, only one-third of movies
 in the US were profitable (Lash & Zhao, 2016). So, the prediction of movies’ performance is a critical
 factor to encourage investment in the movie industry and to support growth in this market.
+
 In addition to investors, owners of cinema theatres also face the risk of releasing unsuccessful
 movies. These owners of movie theatres largely depend on box-office revenue to turn a profit, and
 selecting the right movies, preferably US blockbusters, is critical for their business survival. However,
@@ -53,6 +55,7 @@ Digital access and new ways of home/mobile consumption made downstream influence
 theaters in the U.S. and the number of cinemas dropped from 7,480 in 1997 to 5,750 in 2017 (Film
 Industry Statistics, 2018). This is not surprising as home viewing had been considered a major trend
 in movie consumption long ago (Gomery, 2004: 202).
+
 Other statistics support the fact that cinema owners face a decline in the number of visitors. 54%
 of Americans prefer to consume the movies in their home and not to go to cinemas anymore, while
 19% watch movies once a month, 8% several times a month, and only 4% of Americans buy tickets to
